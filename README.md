@@ -1,4 +1,4 @@
-# Poke Stepper
+# Todo App
 
 This apps purpose is to serve as a todo list.
 
